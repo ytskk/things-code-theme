@@ -1,8 +1,16 @@
 {
   "name": "things-code",
-  "displayName": "Things code",
+  "displayName": "Things Code",
   "description": "Theme to do things and code.",
   "publisher": "ytskk",
+  "keywords": [
+    "things",
+    "code",
+    "theme",
+    "xcode",
+    "dart",
+    "flutter"
+  ],
   "author": {
     "name": "ytskk"
   },
