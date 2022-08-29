@@ -5,7 +5,11 @@
   "publisher": "ytskk",
   "author": {
     "name": "ytskk"
-    },
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ytskk/things-code-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.70.0"
