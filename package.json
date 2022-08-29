@@ -1,0 +1,30 @@
+{
+  "name": "things-code",
+  "displayName": "Things code",
+  "description": "Theme to do things and code.",
+  "publisher": "ytskk",
+  "author": {
+    "name": "ytskk"
+    },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Things code Light",
+        "uiTheme": "vs",
+        "path": "./themes/Things code Light-color-theme.json"
+      },
+      {
+        "label": "Things code Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Things code Dark-color-theme.json"
+      }
+    ]
+  }
+}
