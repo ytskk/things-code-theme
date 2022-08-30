@@ -15,6 +15,28 @@
 	},
 	"tokenColors": [
 		{
+			"name": "comment.line.double-slash.dart",
+			"scope": "comment.line.double-slash.dart",
+			"settings": {
+				"foreground": "#737F8C"
+			}
+		},
+		{
+			"name": "comment.block.documentation.dart",
+			"scope": "comment.block.documentation.dart",
+			"settings": {
+				"foreground": "#ECD14E",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "storage.type.annotation.dart",
+			"scope": "storage.type.annotation.dart",
+			"settings": {
+				"foreground": "#969496"
+			}
+		},
+		{
 			"name": "unison punctuation",
 			"scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
 			"settings": {
@@ -1783,14 +1805,6 @@
 			],
 			"settings": {
 				"foreground": "#000000"
-			}
-		},
-		{
-			"name": "Comments",
-			"scope": "comment, punctuation.definition.comment",
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#737f8b"
 			}
 		},
 		{
