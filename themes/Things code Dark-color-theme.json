@@ -15,6 +15,20 @@
 	},
 	"tokenColors": [
 		{
+			"name": "variable.parameter.dart",
+			"scope": "variable.parameter.dart",
+			"settings": {
+				"foreground": "#D4D4D4"
+			}
+		},
+		{
+			"name": "string.interpolated.single.dart",
+			"scope": "string.interpolated.single.dart",
+			"settings": {
+				"foreground": "#ef8876"
+			}
+		},
+		{
 			"name": "comment.line.double-slash.dart",
 			"scope": "comment.line.double-slash.dart",
 			"settings": {
@@ -745,13 +759,6 @@
 			"scope": "meta.tag",
 			"settings": {
 				"foreground": "#d4d4d4"
-			}
-		},
-		{
-			"name": "Strings",
-			"scope": "string",
-			"settings": {
-				"foreground": "#ef8876"
 			}
 		},
 		{
